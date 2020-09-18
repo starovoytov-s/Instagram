@@ -29,6 +29,7 @@
 		7B9F16D82513911E00993B6E /* SearchResultViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B9F16D72513911E00993B6E /* SearchResultViewController.swift */; };
 		7B9F16DB2513915700993B6E /* PostEditorViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B9F16DA2513915700993B6E /* PostEditorViewController.swift */; };
 		7B9F16DE2513917D00993B6E /* PublishPostViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B9F16DD2513917D00993B6E /* PublishPostViewController.swift */; };
+		7BC9AF9C2513DDCA00B5AC18 /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BC9AF9B2513DDCA00B5AC18 /* Extensions.swift */; };
 		7BF768372513BC3000FDD98D /* DatabaseManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BF768362513BC3000FDD98D /* DatabaseManager.swift */; };
 		7BF7683A2513BF1000FDD98D /* AuthManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BF768392513BF1000FDD98D /* AuthManager.swift */; };
 		7BF7683D2513BF7F00FDD98D /* StorageManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BF7683C2513BF7F00FDD98D /* StorageManager.swift */; };
@@ -61,6 +62,7 @@
 		7B9F16D72513911E00993B6E /* SearchResultViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchResultViewController.swift; sourceTree = "<group>"; };
 		7B9F16DA2513915700993B6E /* PostEditorViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostEditorViewController.swift; sourceTree = "<group>"; };
 		7B9F16DD2513917D00993B6E /* PublishPostViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PublishPostViewController.swift; sourceTree = "<group>"; };
+		7BC9AF9B2513DDCA00B5AC18 /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
 		7BF768362513BC3000FDD98D /* DatabaseManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DatabaseManager.swift; sourceTree = "<group>"; };
 		7BF768392513BF1000FDD98D /* AuthManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AuthManager.swift; sourceTree = "<group>"; };
 		7BF7683C2513BF7F00FDD98D /* StorageManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StorageManager.swift; sourceTree = "<group>"; };
@@ -159,6 +161,7 @@
 				7BF768392513BF1000FDD98D /* AuthManager.swift */,
 				7BF768362513BC3000FDD98D /* DatabaseManager.swift */,
 				7BF7683C2513BF7F00FDD98D /* StorageManager.swift */,
+				7BC9AF9B2513DDCA00B5AC18 /* Extensions.swift */,
 			);
 			path = Resources;
 			sourceTree = "<group>";
@@ -345,6 +348,7 @@
 				7B9F16B725138EC700993B6E /* NotificationsViewController.swift in Sources */,
 				7B9F16D82513911E00993B6E /* SearchResultViewController.swift in Sources */,
 				7B9F16C225138FF800993B6E /* LoginViewController.swift in Sources */,
+				7BC9AF9C2513DDCA00B5AC18 /* Extensions.swift in Sources */,
 				7B9F16D5251390F500993B6E /* SearchViewController.swift in Sources */,
 				7B9F16BA25138EE300993B6E /* ProfileViewController.swift in Sources */,
 				7BF7683A2513BF1000FDD98D /* AuthManager.swift in Sources */,
