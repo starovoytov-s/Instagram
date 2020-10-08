@@ -103,41 +103,6 @@
       "idiom" : "ios-marketing",
       "scale" : "1x",
       "size" : "1024x1024"
-    },
-    {
-      "filename" : "ios-instagram-icon-8-83.5@2x.png",
-      "idiom" : "universal",
-      "scale" : "2x"
-    },
-    {
-      "filename" : "ios-instagram-icon-8-20.png",
-      "idiom" : "universal",
-      "scale" : "1x",
-      "size" : "20x20"
-    },
-    {
-      "filename" : "ios-instagram-icon-8-40.png",
-      "idiom" : "universal",
-      "scale" : "1x",
-      "size" : "40x40"
-    },
-    {
-      "filename" : "ios-instagram-icon-8-76.png",
-      "idiom" : "universal",
-      "scale" : "1x",
-      "size" : "76x76"
-    },
-    {
-      "filename" : "ios-instagram-icon-8-76@2x.png",
-      "idiom" : "universal",
-      "scale" : "2x",
-      "size" : "76x76"
-    },
-    {
-      "filename" : "ios-instagram-icon-8-1024.png",
-      "idiom" : "universal",
-      "scale" : "1x",
-      "size" : "1024x1024"
     }
   ],
   "info" : {
