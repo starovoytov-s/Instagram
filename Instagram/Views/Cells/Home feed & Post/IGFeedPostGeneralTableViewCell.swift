@@ -11,7 +11,7 @@ import UIKit
 /// Comments
 class IGFeedPostGeneralTableViewCell: UITableViewCell {
 
-    static let identifier = "IGFeedPostGenralTableViewCell"
+    static let identifier = "IGFeedPostGeneralTableViewCell"
     
     
     override init(style: UITableViewCell.CellStyle, reuseIdentifier: String?) {
