@@ -1,5 +1,5 @@
 # Instagram
 
 
-Study Project: Instagram Clone -
+Study Project: Instagram clone -
 MVC, Firebase, SDWebImage
