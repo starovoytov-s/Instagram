@@ -79,7 +79,6 @@ final class ProfileInfoHeaderCollectionReusableView: UICollectionReusableView {
     
     // MARK: - Init
         
-    
     override init(frame: CGRect) {
         super.init(frame: frame)
         addSubviews()
