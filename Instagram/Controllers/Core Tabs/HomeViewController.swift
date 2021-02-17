@@ -20,6 +20,8 @@ class HomeViewController: UIViewController {
     
     private var feedRenderModels = [HomeFeedRenderViewModel]()
     
+    private let testProp = 0
+    
     private let tableView: UITableView = {
         let tableView = UITableView()
         // register cells
@@ -75,7 +77,7 @@ class HomeViewController: UIViewController {
                                         createdDate: Date(),
                                         likes: []))
         }
-        for x in 0..<5 {
+        for _ in 0..<5 {
             let viewModel = HomeFeedRenderViewModel(header: PostRenderViewModel(renderType: .header(provider: user)),
                                                     post: PostRenderViewModel(renderType: .primaryContent(provider: post)),
                                                     actions: PostRenderViewModel(renderType: .actions(provider: "")),
